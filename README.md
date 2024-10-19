@@ -6,3 +6,6 @@ Voici une petite application en javascript(DOM et API) qui consiste à visualise
 ## Testez vous même !
 
 Vous pouvez allez tester ceci sur le lien suivant : [Projet Météo](https://moussadev1.github.io/Projet-Meteo/)
+
+## API
+[Site de l'api](https://openweathermap.org/api)
